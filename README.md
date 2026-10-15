@@ -32,10 +32,17 @@ Multiple commands may be included on one line, but NO SPACES ALLOWED!
 
 Additional settings and functions are available on the ZPAD's configuration menu:
 LOG OUT / LOG IN for manual host connections
-MAN HOST / AUTO HOST for automatic login to host on bootup, or manual connection required. If Auto, the command buttons screen will be displayed. Setting retained in non-volatile memory
+
+MAN HOST / AUTO HOST for automatic login to host on bootup, or manual connection required. If Auto, the command buttons screen will be displayed. 
+Select AUTO only after Host configuration is complete and working!
+If Auto, the command buttons screen will be displayed on startup.  Setting retained in non-volatile memory
+
 DIMMWE/BRIGHTER steps through the available brightness levels. Setting retained in non-volatile memory.
+
 DIS WIFI/ENA WIFI connects and disconnects to the local WiFi SSID network
-CLR WIFI  This button, when held down for at least 2 seconds, will ERASE ALL WiFi configuration and will require connection to the ZPAD's temporary access portal
+
+CLR WIFI  This button, when held down for at least 2 seconds, will ERASE ALL WiFi configuration and will require connection to the ZPAD's temporary access portal.
+
 REBOOT Same as the device's reboot button.
 
 
