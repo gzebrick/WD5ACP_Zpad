@@ -28,6 +28,7 @@ ZPAD's IP address as shown on the top line of the display, or using the name fol
 
 The Radio Host configuration as well as the 10 button label and commands are configured using the ZPAD configuration screen and are saved in non-volatile memory.
 NOTE: The button labels support a maximum of 10 characters AND the radio PC commands MUST include the special end-of-line ';" after each command.
+Multiple commands may be included on one line, but NO SPACES ALLOWED!
 
 Additional settings and functions are available on the ZPAD's configuration menu:
 LOG OUT / LOG IN for manual host connections
