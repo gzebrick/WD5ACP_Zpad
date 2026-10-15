@@ -1,3 +1,5 @@
+Guy Zebrick / WD5ACP
+
 This program is written for a low cost color touch screen display known as a "CYD" (Cheap Yellow Device).
 There are three display screens, selectable by touching the header's left or right side:  
 
@@ -7,6 +9,13 @@ Status display
 
 The background color of the display may be changed by repeatedly the "-COLOR-" section on the display header. 
 3 colors are available that mimic the Kenwood radio display.
+The CYD tri-color LED is also used to indicate status:
+
+WHITE = Startup
+MAGENTA = WiFi Configuration access portal open
+CYAN = Configured and Connected to local WiFi network
+GREEN = Connected to local WiFi network and also connected to HOST
+YELLOW = COnfigured but NOT Connected to local WiFi network
 
 The ZPAD lets the user configure up to 10 touch screen buttons to issue a string of commands to a Kenwood TS-890 Amateur Radio Transciever.
 The commands are based on the published PC COMMAND document available from Kenwood.
