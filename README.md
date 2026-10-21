@@ -33,6 +33,8 @@ The WiFi network configuration of the ZPAD uses the built-in access portal and l
 Once selected and configured, the ZPAD will reboot and connect to the local network. Once connected, a configuration screen is available from the ZPAD using the 
 ZPAD's IP address as shown on the top line of the display, or using the name followed by .local. For example: http://zpad.local
 
+<img width="710" height="355" alt="ZpadWebPage" src="https://github.com/user-attachments/assets/c9c277b7-6adb-4518-9a45-8bdb30a24bae" />
+
 The Radio Host configuration as well as the 10 button label and commands are configured using the ZPAD configuration screen and are saved in non-volatile memory.
 NOTE: The button labels support a maximum of 10 characters AND the radio PC commands MUST include the special end-of-line ';" after each command.
 Multiple commands may be included on one line, but NO SPACES ALLOWED!
