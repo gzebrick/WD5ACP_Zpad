@@ -1,6 +1,6 @@
 Guy Zebrick / WD5ACP
 
-<img width="316" height="408" alt="ZpadSmall" src="https://github.com/user-attachments/assets/22ab2218-5b5a-4827-94b3-e71165c5cb96" />
+<img width="600" height="972" alt="zpad case small " src="https://github.com/user-attachments/assets/b1d4a9ca-8aa3-453b-a101-c6a296c40542" />
 
 This program is written for a low cost color touch screen display known as a "CYD" (Cheap Yellow Device).
 Here the board I used, Includes the case too!
