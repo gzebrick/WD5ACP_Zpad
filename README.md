@@ -2,7 +2,7 @@ Guy Zebrick / WD5ACP
 
 <img width="600" height="972" alt="zpad case small " src="https://github.com/user-attachments/assets/b1d4a9ca-8aa3-453b-a101-c6a296c40542" />
 
-This program is written for a low cost color touch screen display known as a "CYD" (Cheap Yellow Device).
+This program is written for a low cost color touch screen display known as a "CYD" (Cheap Yellow Device). 
 Here the board I used, Includes the case too!
 https://a.co/d/00XEqkp3
 No other hardware needed! Your radio must be connected to the same LAN as the WiFi connection for the ZPAD, and since the ZPAD logs in via the network, 
