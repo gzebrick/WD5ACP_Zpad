@@ -54,6 +54,25 @@ CLR WIFI  This button, when held down for at least 2 seconds, will ERASE ALL WiF
 
 REBOOT Same as the device's reboot button.
 
+--------------------------
+
+BASICS getting started below... see youtube for detailed how-too videos on using CYD and Visual Studio...
+
+Purchase a 2.8" CYD and plug it into a USB port on your computer. A pre-loaded demo program may start, that's okay... Select the CODE button to download the entire folder for this application from github onto your local PC, Put it somewhere you can find it.
+
+1, Download and install free Visual Studio programming tool...
+https://visualstudio.microsoft.com/
+2. Open Visual Studio - go to Views, select Extensions, install platformIO extension
+3. Select the new platform IO extension, and select PIO Quick Access > Home > Open
+4. In the Welcome to PlatformIO screen, select Open Project and select the folder you download from github
+5. The download app folder and subfolders will appear in the Explorer file tree. Select src (source code) then main.cpp (c-plus-plus)... that's the program!
+6. At the bottom of the screen you should see an check box (compile), and a right arrow (compile + download). Also a COM port should be indicated. The COM port needs point to your CYD that's plugged in.
+click on the right-arrow to compile the code and download it into the CYD. If there are no errors, the program will start! 
+7. First time running the app you may need to calibrate the touch points (4 touches) and you'll need to find the WiFi access point since it doesn't know your WiFi network yet. connect to it, and go to 192.168.4.1
+8. Pick your WiFi network for the ZPAD (should be on the same network as your host radio). Let it reboot.
+9. After the reboot, you can now connect to the configuration screen at zpad.local - be sure to setup your host radio's IP, port (60000), user name and password BEFORE you go to auto-connect
+10 Program some buttons, save, and you're rollin! Enjoy!
+
 
 
 
