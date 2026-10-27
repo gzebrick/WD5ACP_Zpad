@@ -36,7 +36,7 @@ ZPAD's IP address as shown on the top line of the display, or using the name fol
 <img width="710" height="355" alt="ZpadWebPage" src="https://github.com/user-attachments/assets/c9c277b7-6adb-4518-9a45-8bdb30a24bae" />
 
 The Radio Host configuration as well as the 10 button label and commands are configured using the ZPAD configuration screen and are saved in non-volatile memory.
-NOTE: The button labels support a maximum of 10 characters AND the radio PC commands MUST include the special end-of-line ';" after each command.
+NOTE: The button labels support a maximum of 12 characters AND the radio PC commands MUST include the special end-of-line ';" after each command.
 Multiple commands may be included on one line, but NO SPACES ALLOWED!
 
 Additional settings and functions are available on the ZPAD's configuration menu:
@@ -50,9 +50,9 @@ DIMMWE/BRIGHTER steps through the available brightness levels. Setting retained 
 
 DIS WIFI/ENA WIFI connects and disconnects to the local WiFi SSID network
 
-CLR WIFI  This button, when held down for at least 2 seconds, will ERASE ALL WiFi configuration and will require connection to the ZPAD's temporary access portal.
+CLR WIFI  This button, when held down for at least 2 seconds then tap,  will ERASE ALL WiFi configuration and will require connection to the ZPAD's temporary access portal.
 
-REBOOT Same as the device's reboot button.
+RECAL This button, when held down for at least 2 seconds then tap, re-runs the screen calibration, and then reboots same as the device's reboot button.
 
 --------------------------
 
