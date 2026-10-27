@@ -66,8 +66,9 @@ https://visualstudio.microsoft.com/
 3. Select the new platform IO extension, and select PIO Quick Access > Home > Open
 4. In the Welcome to PlatformIO screen, select Open Project and select the folder you download from github
 5. The download app folder and subfolders will appear in the Explorer file tree. Select src (source code) then main.cpp (c-plus-plus)... that's the program!
-6. At the bottom of the screen you should see an check box (compile), and a right arrow (compile + download). Also a COM port should be indicated. The COM port needs point to your CYD that's plugged in.
-click on the right-arrow to compile the code and download it into the CYD. If there are no errors, the program will start! 
+6. At the bottom of the screen you should see an check box (compile), and a right arrow (compile + download). Also a COM port should be indicated. 
+The COM port needs point to your CYD that's plugged in. click on the right-arrow to compile the code and download it into the CYD. If there are no errors, the program will start! 
+
 7. First time running the app you may need to calibrate the touch points (4 touches) and you'll need to find the WiFi access point since it doesn't know your WiFi network yet. connect to it, and go to 192.168.4.1
 8. Pick your WiFi network for the ZPAD (should be on the same network as your host radio). Let it reboot.
 9. After the reboot, you can now connect to the configuration screen at zpad.local - be sure to setup your host radio's IP, port (60000), user name and password BEFORE you go to auto-connect
