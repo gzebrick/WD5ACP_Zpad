@@ -10,14 +10,14 @@ you can't use it and any other network program at the same time (but it's easy t
 
 There are three display screens, selectable by touching the header's left or right side:  
 
-Configuration Buttons
-Radio Command Buttons
-Status display
+Configuration Buttons (configures / controls Zpad Wifi and host logins + screen brightness)
+Radio Command Buttons (user-configured from zpad.local webpage. 10 buttons, each with a string of host PC commands)
+Status display (shows current configuration for host and zpad WiFi data)
 
 The background color of the display may be changed by repeatedly the "-COLOR-" section on the display header. 
 3 colors are available that mimic the Kenwood radio display.
-The CYD tri-color LED is also used to indicate status:
 
+The CYD tri-color LEDon the rear of the CYD is also used to indicate status:
 WHITE = Startup
 MAGENTA = WiFi Configuration access portal open
 CYAN = Configured and Connected to local WiFi network
@@ -34,9 +34,6 @@ Once selected and configured, the ZPAD will reboot and connect to the local netw
 ZPAD's IP address as shown on the top line of the display, or using the name followed by .local. For example: http://zpad.local
 
 <img width="710" height="355" alt="image" src="https://github.com/user-attachments/assets/ee346d2d-6cef-4f2e-927e-31dad16d9463" />
-
-
-<img width="710" height="355" alt="ZpadWebPage" src="https://github.com/user-attachments/assets/c9c277b7-6adb-4518-9a45-8bdb30a24bae" />
 
 The Radio Host configuration as well as the 10 button label and commands are configured using the ZPAD configuration screen and are saved in non-volatile memory.
 NOTE: The button labels support a maximum of 12 characters AND the radio PC commands MUST include the special end-of-line ';" after each command.
