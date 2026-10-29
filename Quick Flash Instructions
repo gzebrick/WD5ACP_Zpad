@@ -16,6 +16,7 @@ bootloader " 0x1000 "
 firmware " 0x10000 "
 partitions " 0x8000"
 
+
 7. Plug  your CYD into a USB port
 
 8. At the bottom click on the down arrow for the COM entery and select you CYD com port.
