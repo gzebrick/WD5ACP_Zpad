@@ -46,13 +46,15 @@ MAN HOST / AUTO HOST for automatic login to host on bootup, or manual connection
 Select AUTO only after Host configuration is complete and working!
 If Auto, the command buttons screen will be displayed on startup.  Setting retained in non-volatile memory
 
-DIMMWE/BRIGHTER steps through the available brightness levels. Setting retained in non-volatile memory.
+DIMMER/BRIGHTER steps through the available brightness levels. Setting retained in non-volatile memory.
 
 DIS WIFI/ENA WIFI connects and disconnects to the local WiFi SSID network
 
 CLR WIFI  This button, when held down for at least 2 seconds then tap,  will ERASE ALL WiFi configuration and will require connection to the ZPAD's temporary access portal.
 
 RECAL This button, when held down for at least 2 seconds then tap, re-runs the screen calibration, and then reboots same as the device's reboot button.
+
+<img width="661" height="452" alt="image" src="https://github.com/user-attachments/assets/4b9400cb-a638-4311-9766-94a141dd5735" />
 
 --------------------------
 
